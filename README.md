@@ -1,6 +1,4 @@
-# StudentManagementApp
-
-# 🎓 Student Management System
+# 🎓 Student Database Management System
 
 A web-based CRUD application to manage student records using Django framework.
 
