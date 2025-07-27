@@ -1,7 +1,7 @@
 # 🎓 Student Database Management System
 
 A web-based CRUD application to manage student records using Django framework.
-👉 [image](https://github.com/PRRIYAAA/StudentManagementApp/blob/main/Screenshot%202025-07-26%20182624.png)
+![App Preview](Screenshot%202025-07-26%20182624.png "Student Dashboard Screenshot")
 
 ## ✨ Features
 - Add, update, delete, and view students
